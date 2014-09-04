@@ -1,6 +1,6 @@
-#GDG Aracaju - Intro
+#GDG - Intro
 
-An introduction presentation for GDG Aracaju events.
+An introduction presentation for GDG chapters. Forked from [GDG Aracaju Intro](http://github.com/gdgaracaju/intro).
 
 GDG Aracaju is a local chapter of Google Developers Group on Aracaju, Brazil. [Visit our website.](http://gdgaracaju.com.br/)
 
